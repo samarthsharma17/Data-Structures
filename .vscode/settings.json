@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "BinarysEARCH2.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
